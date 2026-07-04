@@ -1,4 +1,4 @@
-# GitLab-SonarCloud, Y OTRAS COSAS
+# GitLab-SonarCloud
 
 
 
